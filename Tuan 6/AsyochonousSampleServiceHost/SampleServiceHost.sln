@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleServiceHost", "SampleServiceHost\SampleServiceHost.csproj", "{06A45FCA-797C-48C4-A355-6D7EB965B514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A45FCA-797C-48C4-A355-6D7EB965B514}.Debug|x86.ActiveCfg = Debug|x86
+		{06A45FCA-797C-48C4-A355-6D7EB965B514}.Debug|x86.Build.0 = Debug|x86
+		{06A45FCA-797C-48C4-A355-6D7EB965B514}.Release|x86.ActiveCfg = Release|x86
+		{06A45FCA-797C-48C4-A355-6D7EB965B514}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
